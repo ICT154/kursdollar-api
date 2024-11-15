@@ -4,7 +4,8 @@
   "description": "API kurs dolar non-resmi adalah layanan yang memberikan akses ke data nilai tukar mata uang dolar Amerika Serikat terhadap mata uang lainnya. Meskipun tidak resmi, API ini menyediakan informasi yang relevan dan akurat tentang fluktuasi nilai tukar dolar, memungkinkan pengguna untuk memantau perubahan pasar secara real-time. Dengan API ini, pengembang dapat mengintegrasikan informasi kurs dolar ke dalam aplikasi mereka, seperti aplikasi keuangan, situs web, atau layanan keuangan lainnya. Meskipun bukan data resmi dari lembaga keuangan pemerintah, API ini tetap merupakan sumber informasi yang berharga bagi individu dan organisasi yang memantau pasar mata uang global.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [
     "kursdollar.net",
